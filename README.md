@@ -1,42 +1,24 @@
-# PulandoOsedentarismo2
-# 
-# <p align="center">PROJETO Jogos Digitais </p>
+# Projeto para a matéria de Jogos Digitais 
+
+#Bem-vindo ao Game Pulando o Sedentarismo. 
+
+#O Jogo.
+
+O personagem principal é um atleta amador chamado Ferrugem e está em busca de superar seus limites e abandonar seus hábitos sedentários. Terá como objetivo percorrer uma maratona em linha reta desviando e pulando de obstáculos, não será tão fácil, pois seus maiores inimigos serão, um cavalete com pontas de lança e comidas voadoras que irão impedir que ele chegue a pontuação máxima. Caso encoste em alguns dos obstáculos ele perde. 
+
+Modo de Jogo:  Utilize a barra de espaço para pular os obstáculos e a seta indicativa para baixo para abaixar o personagem. 
 
 
-### L
+# Utilize a barra de espaço para o personagem pular 
+# Utilize a Seta para baixo, para o personagem abaixar 
 
-### DESCRIÇÃO 
-<p align = "justify">
-jogo ........................................................................................................em construção.
-</p>
-<p align = "justify">
-O  objetivo principal do jogo é pular os obstáculos e fugir da má alimentação, evitar o sedentarismo e estimulando a atividade física .
-</p>
+# Tente desviar dos obstáculos 
 
-<p align="center"><img src="https://"  width="600px" height="400px"/></p>
+- Cavalete com pontas de lança 
+- Comidas e doces que engordam 
 
-### COMPONENTES UTILIZADOS 
-<ul>
-<li>IDE pygame</li>
-<li>Paint 3D</li>
-<li>.... </li>
 
-</ul>
 
-### 
 
-### D
 
-### M
 
-### VIDEO
-<a href="https://www.youtube.com" title="IctioNutri"><p align="center"><img src="https://" width="500px" height="300px" align="center"></p></a>
- <p align="center"> <i> Clique na imagem para acessar </i> </p>
-<br/>
-
-### AUTORES DO PROJETO JOGOS DIGITAIS 
-<ul>
-<li>Paulo Henrique Apro - TIA: 41723457</li>
-  <li>Marco Polo - TIA: 41703170</li>
-  <li>Diana Almeida - TIA: 41750071</li>
-</ul>
