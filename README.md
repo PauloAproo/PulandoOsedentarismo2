@@ -21,13 +21,13 @@ Jogo de plataforma, na terceira pessoa. O personagem principal é um atleta amad
 
 # Imagens do jogo em ação 
 
--[Página inicial](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/1.png)
--[Game Over](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/2.png)
--[Fase Noite](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/3.png)
--[Fase Noite](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/4.png)
--[Fase Noite](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/5.png)
--[Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/6.png)
--[Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/7.png)
--[Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/8.png)
--[Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/9.png)
+![Página inicial](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/1.png)
+![Game Over](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/2.png)
+![Fase Noite](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/3.png)
+![Fase Noite](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/4.png)
+![Fase Noite](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/5.png)
+![Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/6.png)
+![Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/7.png)
+![Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/8.png)
+![Desviando de Obstaculos](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/imagens2/9.png)
 
