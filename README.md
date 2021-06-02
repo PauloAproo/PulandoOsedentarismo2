@@ -37,6 +37,6 @@ O  objetivo principal do jogo é pular os obstáculos e fugir da má alimentaç�
 ### AUTORES DO PROJETO JOGOS DIGITAIS 
 <ul>
 <li>Paulo Henrique Apro - TIA: 41723457</li>
-  <li>Marco Polo - TIA: 0000000</li>
-  <li>Diana Almeida - TIA: 000000</li>
+  <li>Marco Polo - TIA: 41703170</li>
+  <li>Diana Almeida - TIA: 41750071</li>
 </ul>
