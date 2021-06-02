@@ -6,7 +6,8 @@
 
 Jogo de plataforma, na terceira pessoa. O personagem principal é um atleta amador chamado Ferrugem e está em busca de superar seus limites e abandonar seus hábitos sedentários. Terá como objetivo percorrer uma maratona em linha reta desviando e pulando de obstáculos, não será tão fácil, pois seus maiores inimigos serão, um cavalete com pontas de lança e comidas voadoras que irão impedir que ele chegue a pontuação máxima. Caso encoste em alguns dos obstáculos ele perde. 
 
-# Modo de Jogo:  Utilize a barra de espaço para pular os obstáculos e a seta indicativa para baixo para abaixar o personagem. 
+# Modo de Jogo:  
+-Utilize a barra de espaço para pular os obstáculos e a seta indicativa para baixo para abaixar o personagem. 
 
 - Para maiores detalhes, acesse a [Código do progejto](https://github.com/PauloAproo/PulandoOsedentarismo2/blob/b165921d510539931b8ac2dbac34c69aa42d3b49/gem.py)
 
